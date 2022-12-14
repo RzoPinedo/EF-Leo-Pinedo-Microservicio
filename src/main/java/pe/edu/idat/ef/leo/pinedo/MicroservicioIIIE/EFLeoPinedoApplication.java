@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ec3LeoPinedoApplication {
+public class EFLeoPinedoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ec3LeoPinedoApplication.class, args);
+		SpringApplication.run(EFLeoPinedoApplication.class, args);
 	}
 
 }

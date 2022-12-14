@@ -1,0 +1,11 @@
+create database efleopinedo;
+
+insert into hospedaje (id_hospedaje, nombre) values 
+('001', 'Hotelito'),
+('002','Miramar');
+insert into reserva (id_reserva, costo) values 
+('001', '25'),
+('002','30');
+insert into turista (id_turista, direccion, nombre_turista, nro_celular) values 
+('001', 'Calle 1', 'Mario Perez', '999222333'),
+('002','Calle 2', 'Jonas Gutierrez', '888555666');
